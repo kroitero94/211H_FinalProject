@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img2.jpeg</file>
+        <file>MainWindow.jpeg</file>
+        <file>covid-19.jpeg</file>
+        <file>A.webp</file>
+        <file>C.jpeg</file>
+        <file>abstract.webp</file>
+        <file>1.jpeg</file>
+        <file>Coronavirus-CDC.jpeg</file>
+    </qresource>
+</RCC>

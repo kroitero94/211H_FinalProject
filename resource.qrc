@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>MainWindow.jpeg</file>
+        <file>../Desktop/img.webp</file>
+    </qresource>
+</RCC>
